@@ -1,6 +1,6 @@
 # bad-apple-onion-skin
 
-[[!Video](http://img.youtube.com/vi/n_fwUL_BDxY/0.jpg)](https://www.youtube.com/watch?v=n_fwUL_BDxY "Bad Apple but with onion skin enabled")
+[![Video](http://img.youtube.com/vi/n_fwUL_BDxY/default.jpg)](https://www.youtube.com/watch?v=n_fwUL_BDxY "Bad Apple but with onion skin enabled")
 
 # Instructions
 > Install all node modules\
